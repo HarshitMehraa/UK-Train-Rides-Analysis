@@ -4,7 +4,7 @@
 
 **Tech Stack**
 
-• 📊 **Power BI Desktop** – Data Visualization platform used for report creation and Data Modelling.
+• 📊 **Power BI Desktop** – Data Visualization platform used for report creation and to create relationship/Data Models between tables.
 
 • 📂 **Power Query** – Data Transformation platform for cleaning, reshaping and preparing the data.
 
@@ -14,16 +14,18 @@
 
 **Key Performance Indicators (KPIs)**
 
-**Total Sales**: Overall revenue generated ($1.20M).
-**Average Sales**: Average revenue per sale ($141)
-**Number of Items**: Total count of different items sold (8.5K)
-**Average Rating**: Average customer rating for items sold (3.9 out of 5)
+**Overall Sales**: Overall Sales generated (742K).
+**Online Sales**: Online Sales generated (383K).
+**Offline Sales**: Offline Sales generated (359K).
+**Refund Requested**: Overall Refund Request (1K).
+**Delayed**: Overall Delayed Rides (2K).
+**Cancelled**: Overall Cancelled Rides (2K).
+
 
 **Key Visual**
 
-**Slicers**: Allows user to filter data by Establishment Year, Outlet Size and Outlet Type.
-**Doughnut Chart**: Visualizes the Sales by Fat Content and Outlet Size.
-**Bar Chart**: Visualizes the Sales by Item Type.
-**Clustered Bar Chart**: Visualizes the Sales by Outlet Location and breakdown between Fat Content.
-**Area Chart**: Visualizes the Sales trend by Establishment Year.
-**Funnel Char**: Visualizes the Sales by Outlet Location.
+**Slicers**: Allows user to filter data by Year, Purchase Type, Payment Method, Ticket Type, Ticket Class and Journey Status.
+**Doughnut Charts**: Visualizes the Sales by Purchase Type and Payment Method.
+**Bar Chart**: Visualizes the Sales by Ticket Type and Ticket Class. Also, Visualizes the Journey Status and Reason for Delayed and Cancelled.
+**Column Chart**: Visualizes the Sales trend over Years.
+**Line Chart**: Visualizes the Cancelled and Dealyed trend over Years.
